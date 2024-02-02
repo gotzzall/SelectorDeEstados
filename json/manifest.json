@@ -1,0 +1,16 @@
+{
+      "name" : "Domicilio",
+      "short_name" : "Domicilio",
+      "background_color": "blue",
+      "start_url": "/SelectorDeEstados/index.html",
+      "description" : "This is my form pages",
+      "icons" : 
+      [
+          {
+              "src" : "/SelectorDeEstados/img/icono.png",
+              "type": "image/png",    
+              "sizes": "512x512"
+          }
+      ],
+      "display" : "standalone"
+  }
