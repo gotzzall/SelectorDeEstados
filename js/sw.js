@@ -7,7 +7,12 @@ const  recursosCache =
     "/SelectorDeDatos/",
     "/SelectorDeDatos/index.html",
     "/SelectorDeDatos/js/main.js",
-    "/SelectorDeDatos/img/icono.png"
+    "/SelectorDeDatos/js/enviar.js",
+    "/SelectorDeDatos/js/logica.js",
+    "/SelectorDeDatos/js/recibir.js",
+    "/SelectorDeDatos/js/sw.js",
+    "/SelectorDeDatos/img/icono.png",
+    "/SelectorDeDatos/pages/vista.html"
 ];
 
 // El metodo guardará los elementos en la cache
