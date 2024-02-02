@@ -250,7 +250,7 @@ function localidadesOpciones()
                                                 {
                                                       var opciones = document.createElement('option');
                                                       opciones.text = nivel4.localidad;
-                                                      opciones.value = nivel3.localidad;
+                                                      opciones.value = nivel4.localidad;
                                                       elementoSelecLocalidad.add(opciones);
                                                 }
                                           }
